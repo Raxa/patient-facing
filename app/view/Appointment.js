@@ -23,6 +23,17 @@ Ext.define('Med-Table.view.Appointment',{
                 ui:'light',
                 height : 'auto',
                 items: [
+                    {
+                        xtype: 'button',
+                        disabled:'true',
+                        text : '<img src="resources/images/appt_clicked.png">',
+                        disabled : 'true',
+                        handler: function()
+                        {
+                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
+                        },
+                        padding:'5px'
+                    },
 
                     {
                      xtype: 'button',
@@ -44,17 +55,7 @@ Ext.define('Med-Table.view.Appointment',{
                         },
                         padding:'5px'
                     },
-                    {
-                        xtype: 'button',
-                        disabled:'true',
-                        text : '<img src="resources/images/appt_clicked.png">',
-                        disabled : 'true',
-                        handler: function()
-                        {
-                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
-                        },
-                        padding:'5px'
-                    },
+
                     {
                         xtype: 'spacer'
                     },

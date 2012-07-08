@@ -23,6 +23,16 @@ Ext.define('Med-Table.view.Schedule',{
                         hidden: true,
                         url : 'resources/Audio/MedicineSchedule.mp3'
                     },
+                    {
+                        xtype: 'button',
+                        text : '<img src="resources/images/appoint-small.png">',
+                        handler: function()
+                        {
+                            audio.stop();
+                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
+                        },
+                        padding:'5px'
+                    },
 
                     {
                      xtype: 'button',
@@ -44,16 +54,7 @@ Ext.define('Med-Table.view.Schedule',{
                         },
                         padding:'5px'
                     },
-                    {
-                        xtype: 'button',
-                        text : '<img src="resources/images/appoint-small.png">',
-                        handler: function()
-                        {
-                            audio.stop();
-                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
-                        },
-                        padding:'5px'
-                    },
+
                     {
                         xtype: 'spacer'
                     },

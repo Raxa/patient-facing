@@ -22,10 +22,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExpandedAfternoon.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/view/ExpandedAfternoon.js">
+      <file leaf-file-name="Main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="85" selection-start="6359" selection-end="6359" vertical-scroll-proportion="0.0">
+            <state line="10" column="22" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/Menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="104" column="26" selection-start="3429" selection-end="3429" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Schedule.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/Schedule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="22" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appointment.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calendar/appointment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="22" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0331384">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calendar.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calendar/calendar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apptframe.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calendar/apptframe.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -34,7 +79,7 @@
       <file leaf-file-name="ExpandedEvening.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/view/ExpandedEvening.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="90" selection-start="6034" selection-end="6034" vertical-scroll-proportion="0.0">
+            <state line="35" column="22" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -43,7 +88,7 @@
       <file leaf-file-name="ExpandedMorning.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/view/ExpandedMorning.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="230" column="90" selection-start="10149" selection-end="10149" vertical-scroll-proportion="0.0">
+            <state line="35" column="22" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -52,25 +97,16 @@
       <file leaf-file-name="ExpandedNight.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/view/ExpandedNight.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="87" selection-start="3998" selection-end="4006" vertical-scroll-proportion="0.0">
+            <state line="34" column="22" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/view/Main.js">
+      <file leaf-file-name="Instructions.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/view/Instructions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalendarDisplay.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/view/CalendarDisplay.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="51" selection-start="2606" selection-end="2606" vertical-scroll-proportion="0.39700374">
+            <state line="35" column="22" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,22 +122,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/view/Home.js" />
-        <option value="$PROJECT_DIR$/app/view/Appointment.js" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/app/view/ExpandedAfternoon.js" />
-        <option value="$PROJECT_DIR$/app/view/ExpandedEvening.js" />
-        <option value="$PROJECT_DIR$/app/view/ExpandedMorning.js" />
-        <option value="$PROJECT_DIR$/app/view/ExpandedNight.js" />
         <option value="$PROJECT_DIR$/app/store/Instructions.js" />
-        <option value="$PROJECT_DIR$/app/view/Main.js" />
-        <option value="$PROJECT_DIR$/app/view/Schedule.js" />
         <option value="$PROJECT_DIR$/app/model/Medicine.js" />
         <option value="$PROJECT_DIR$/app/store/AfternoonMedicines.js" />
         <option value="$PROJECT_DIR$/app/store/EveningMedicines.js" />
         <option value="$PROJECT_DIR$/app/store/MorningMedicines.js" />
         <option value="$PROJECT_DIR$/app/store/NightMedicines.js" />
+        <option value="$PROJECT_DIR$/app/view/Main.js" />
+        <option value="$PROJECT_DIR$/app/view/Appointment.js" />
         <option value="$PROJECT_DIR$/app/view/CalendarDisplay.js" />
+        <option value="$PROJECT_DIR$/app/view/ExpandedAfternoon.js" />
+        <option value="$PROJECT_DIR$/app/view/ExpandedEvening.js" />
+        <option value="$PROJECT_DIR$/app/view/ExpandedMorning.js" />
+        <option value="$PROJECT_DIR$/app/view/ExpandedNight.js" />
+        <option value="$PROJECT_DIR$/app/view/Instructions.js" />
+        <option value="$PROJECT_DIR$/app/view/Schedule.js" />
+        <option value="$PROJECT_DIR$/calendar/appointment.html" />
       </list>
     </option>
   </component>
@@ -161,7 +197,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Med-Table" />
+              <option name="myItemId" value="Prototype" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,7 +207,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Med-Table" />
+              <option name="myItemId" value="Prototype" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -185,7 +221,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Med-Table" />
+              <option name="myItemId" value="Prototype" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -203,47 +239,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Med-Table" />
+              <option name="myItemId" value="Prototype" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Med-Table" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Med-Table" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Med-Table" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Med-Table" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,13 +297,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24795234" sideWeight="0.65068495" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24795234" sideWeight="0.33732876" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24795234" sideWeight="0.6558219" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24795234" sideWeight="0.3321918" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
@@ -353,7 +353,7 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -374,102 +374,108 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="60" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/Instructions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="54" selection-start="256" selection-end="256" vertical-scroll-proportion="0.21288015" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/Menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="0" selection-start="0" selection-end="3637" vertical-scroll-proportion="0.69588554" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/Appointment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="80" selection-start="2586" selection-end="2587" vertical-scroll-proportion="0.57423973" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/model/Medicine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="73" selection-start="192" selection-end="192" vertical-scroll-proportion="0.21288015">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/MorningMedicines.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="70" selection-start="542" selection-end="605" vertical-scroll-proportion="0.3649374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/store/NightMedicines.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="30" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.7602862">
-          <folding />
-        </state>
+        <state line="25" column="30" selection-start="1156" selection-end="1156" vertical-scroll-proportion="0.7602862" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/store/AfternoonMedicines.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/Schedule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="77" selection-start="410" selection-end="410" vertical-scroll-proportion="-12.24">
-          <folding />
-        </state>
+        <state line="12" column="16" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/store/EveningMedicines.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="66" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="14" column="66" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/ExpandedAfternoon.js">
+    <entry file="file://$PROJECT_DIR$/app/view/Appointment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="85" selection-start="6359" selection-end="6359" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/ExpandedEvening.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="90" selection-start="6034" selection-end="6034" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/ExpandedMorning.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="230" column="90" selection-start="10149" selection-end="10149" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/ExpandedNight.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="87" selection-start="3998" selection-end="4006" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/view/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="28" column="56" selection-start="762" selection-end="762" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/view/CalendarDisplay.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="51" selection-start="2606" selection-end="2606" vertical-scroll-proportion="0.39700374">
+        <state line="26" column="22" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/ExpandedAfternoon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="41" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/ExpandedEvening.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="22" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/ExpandedMorning.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="22" selection-start="1109" selection-end="1109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/ExpandedNight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="22" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Instructions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="22" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="22" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="26" selection-start="3429" selection-end="3429" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view/Schedule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="22" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar/calendar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar/apptframe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calendar/appointment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="22" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0331384">
           <folding />
         </state>
       </provider>

@@ -26,6 +26,16 @@ Ext.define('Med-Table.view.Instructions',{
                 items: [
                     {
                         xtype: 'button',
+                        text : '<img src="resources/images/appoint-small.png">',
+                        handler: function()
+                        {
+                            audio.stop();
+                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
+                        },
+                        padding:'5px'
+                    },
+                    {
+                        xtype: 'button',
                         text : '<img src="resources/images/reminder-small.png">',
                         handler: function()
                         {
@@ -44,16 +54,7 @@ Ext.define('Med-Table.view.Instructions',{
                         },
                         padding:'5px'
                     },
-                    {
-                        xtype: 'button',
-                        text : '<img src="resources/images/appoint-small.png">',
-                        handler: function()
-                        {
-                            audio.stop();
-                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
-                        },
-                        padding:'5px'
-                    },
+
                     {
                         xtype: 'spacer'
                     },

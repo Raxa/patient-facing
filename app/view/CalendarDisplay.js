@@ -17,6 +17,16 @@ Ext.define('Med-Table.view.CalendarDisplay',{
                 items: [
                     {
                         xtype: 'button',
+                        text : '<img src="resources/images/appoint-small.png">',
+                        handler: function()
+                        {
+                            audio.stop();
+                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
+                        },
+                        padding:'5px'
+                    },
+                    {
+                        xtype: 'button',
                         disabled:'true',
                         text : '<img src="resources/images/sched_clicked.png">',
                         handler: function()
@@ -36,16 +46,7 @@ Ext.define('Med-Table.view.CalendarDisplay',{
                         },
                         padding:'5px'
                     },
-                    {
-                        xtype: 'button',
-                        text : '<img src="resources/images/appoint-small.png">',
-                        handler: function()
-                        {
-                            audio.stop();
-                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
-                        },
-                        padding:'5px'
-                    },
+
                     {
                         xtype: 'spacer'
                     },

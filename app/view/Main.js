@@ -41,6 +41,10 @@ Ext.define('Med-Table.view.Main', {
                     id: 'regno'
                     //flex:1
                 },
+                    {
+                        xtype: 'spacer',
+                        height: 50
+                    },
 
                     {
                         xtype: 'container',
@@ -208,7 +212,7 @@ Ext.define('Med-Table.view.Main', {
                                                 {
                                                     docked: 'top',
                                                     xtype: 'toolbar',
-                                                    title: 'Confirmation',
+                                                    title: 'कृपया पुष्टि करें',
                                                     height:'60px'
                                                 },
                                                 {
@@ -218,7 +222,7 @@ Ext.define('Med-Table.view.Main', {
                                                     margin: '10 0 10 125'
                                                 },
                                                 {
-                                                    html:'<h2>Name: XYZ</h2><h2>Teshil: Bilaspur</h2>'
+                                                    html:'<h2>नाम : राजेश कुमार</h2><h2>तहसील: बिलासपुर</h2>'
                                                 },
                                                 {
                                                     docked: 'bottom',

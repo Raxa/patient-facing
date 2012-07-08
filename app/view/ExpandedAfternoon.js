@@ -19,6 +19,16 @@ Ext.define('Med-Table.view.ExpandedAfternoon',{
                 height : 'auto',
                 items: [
                     {
+                        xtype: 'button',
+                        text : '<img src="resources/images/appoint-small.png">',
+                        handler: function()
+                        {
+                            audio.stop();
+                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
+                        },
+                        padding:'5px'
+                    },
+                    {
                         xtype : 'audio',
                         id:'audio1',
                         hidden: true,
@@ -45,16 +55,7 @@ Ext.define('Med-Table.view.ExpandedAfternoon',{
                         },
                         padding:'5px'
                     },
-                    {
-                        xtype: 'button',
-                        text : '<img src="resources/images/appoint-small.png">',
-                        handler: function()
-                        {
-                            audio.stop();
-                            Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
-                        },
-                        padding:'5px'
-                    },
+
                     {
                         xtype: 'spacer'
                     },
