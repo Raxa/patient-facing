@@ -24,7 +24,7 @@ This interface is being developed using Sencha Touch 2, a HTML5 mobile applicati
 
 Steps to set up the app
 ------------------------
-Currently the app can be found at : patient-facing.github.com
+Currently the app can be found at : http://patient-facing.github.com
 
 The JSS medical assistance app can be viewed online on an  i-pad emulator. You can type in the address : 'patient-facing.github.com' in the emulator's address bar to run the app. However, if you find the emulator to be slow, you can download this repository from Github (https://github.com/Raxa/patient-facing) and test it out on your localhost.
  
