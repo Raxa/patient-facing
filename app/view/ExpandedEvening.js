@@ -33,6 +33,7 @@ Ext.define('Med-Table.view.ExpandedEvening', {
             items: [{
                 xtype: 'audio',
                 id: 'audio1',
+                loop: true,
                 hidden: true,
                 url: 'resources/Audio/ExpandedScheduleScreen.mp3'
             }, {
@@ -173,8 +174,8 @@ Ext.define('Med-Table.view.ExpandedEvening', {
                     xtype: 'list',
                     flex: 1,
                     store: 'EveningMedicines',
-                    itemTpl: '<img src="{medicineImage}"/> <h1>{name}</h1> <img src="{afterBeforeFood}"/> <img src="{dose}"/> <img src="{warning1}"/> <img src="{warning2}"/> <h1></h1> ',
-                    itemCls: 'medicine-entry',
+                    itemTpl: '<img src="{medicineImage}"/> <img src="{afterBeforeFood}"/> <img src="{dose}"/> <img src="{warning1}"/> <img src="{warning2}"/> <h1>{name}</h1> <h1></h1> ',
+                    itemCls: 'medicine-entry-morning',
                     style: 'background-color: #30cc18;',
                     listeners: {
                         itemtap: function (view, index, item, record, e) {

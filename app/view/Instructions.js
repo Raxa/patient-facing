@@ -30,6 +30,7 @@ Ext.define('Med-Table.view.Instructions', {
             xtype: 'audio',
             id: 'audio3',
             hidden: true,
+            loop: true,
             url: 'resources/Audio/Instruction.mp3'
         }, {
             xtype: 'toolbar',
@@ -81,7 +82,7 @@ Ext.define('Med-Table.view.Instructions', {
                 margin: '20'
             }, {
                 xtype: 'list',
-                style: 'background-color: #759E60;',
+                //style: 'background-color: #759E60;',
                 flex: 3,
                 margin: '100 0 0 0',
                 store: 'Instructions',

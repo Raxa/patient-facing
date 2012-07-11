@@ -29,7 +29,7 @@ Ext.define('Med-Table.view.Menu', {
             xtype: 'container',
             items: [{
                 xtype: 'button',
-                text: '<img src="resources/images/medicine reminder_without drop shadow.png">',
+                text: '<h2>2</h2><img src="resources/images/medicine reminder_without drop shadow.png">',
                 handler: function () {
                     audio.stop();
                     Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.CalendarDisplay'))
@@ -40,11 +40,12 @@ Ext.define('Med-Table.view.Menu', {
             }, {
                 xtype: 'audio',
                 id: 'audio2',
+                loop: true,
                 hidden: true,
                 url: 'resources/Audio/Menu.mp3'
             }, {
                 xtype: 'button',
-                text: '<img src="resources/images/instructions-01.png">',
+                text: '<h2>3</h2><img src="resources/images/instructions-01.png">',
                 handler: function () {
                     audio.stop();
                     Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Instructions'))
@@ -53,7 +54,7 @@ Ext.define('Med-Table.view.Menu', {
                 top: '50px'
             }, {
                 xtype: 'button',
-                text: '<img src="resources/images/next appointment-01.png">',
+                text: '<h2>1</h2><img src="resources/images/next appointment-01.png">',
                 handler: function () {
                     audio.stop();
                     Ext.Viewport.setActiveItem(Ext.create('Med-Table.view.Appointment'))
